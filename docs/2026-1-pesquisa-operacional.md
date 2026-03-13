@@ -1,4 +1,4 @@
-# Cronograma 2026.1 - Pesquisa Operacional
+# Cronograma 2026.1 - Pesquisa Operacional - Livro Base em 16 Semanas
 
 Plano de estudo do livro inteiro em 16 semanas, com foco em modelagem, resolucao manual de exemplos pequenos e comparacao entre classes de problemas.
 

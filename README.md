@@ -4,7 +4,7 @@ Repositorio simples para consulta dos cronogramas de estudo da organizacao Pequi
 
 ## Trilhas ativas
 
-- [2026.1 - Pesquisa Operacional](docs/2026-1.md)
+- [2026.1 - Pesquisa Operacional - Livro Base em 16 Semanas](docs/2026-1-pesquisa-operacional.md)
 - [2026.1 - Inteligencia Artificial](docs/2026-1-ia.md)
 
 ## Como usar
