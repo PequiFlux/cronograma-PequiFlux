@@ -1,14 +1,15 @@
-# Cronograma de Aulas
+# Cronograma de Estudos
 
-Repositorio simples para consulta do cronograma de aulas da organizacao PequiFlux.
+Repositorio simples para consulta dos cronogramas de estudo da organizacao PequiFlux.
 
-## Semestres
+## Trilhas ativas
 
-- [2026.1](docs/2026-1.md)
+- [2026.1 - Pesquisa Operacional](docs/2026-1.md)
+- [2026.1 - Inteligencia Artificial](docs/2026-1-ia.md)
 
 ## Como usar
 
-Atualize o arquivo do semestre com:
+Cada trilha deve ter seu proprio arquivo. Atualize o arquivo correspondente com:
 
 - data da aula
 - tema
@@ -22,4 +23,3 @@ Cada linha representa uma aula. Exemplo de colunas:
 | Aula | Data | Tema | Material | Status | Observacoes |
 | --- | --- | --- | --- | --- | --- |
 | 01 | 20/03/2026 | Introducao | Link ou arquivo | Planejada | - |
-
