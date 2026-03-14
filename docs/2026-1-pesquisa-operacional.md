@@ -7,7 +7,7 @@ Plano de estudo do livro inteiro em 16 semanas, com foco em modelagem, resolucao
 - Trilha: Pesquisa Operacional
 - Inicio: 18/03/2026
 - Encontros: quartas-feiras
-- Duracao por encontro: cerca de 3 horas
+- Duracao por encontro: cerca de 30 minutos
 - Estudo autonomo: 3 a 5 horas por semana
 - Eixo do curso: entender a classe do problema, formular, resolver e interpretar
 - Apoio transversal: consultar o apendice de sistemas de equacoes lineares sempre que a algebra linear atrapalhar simplex, dualidade ou fluxos
