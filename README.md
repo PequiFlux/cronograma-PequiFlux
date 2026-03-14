@@ -6,6 +6,7 @@ Repositorio simples para consulta dos cronogramas de estudo da organizacao Pequi
 
 - [2026.1 - Pesquisa Operacional - Trilha Conceitual em 16 Semanas](docs/2026-1-pesquisa-operacional.md)
 - [2026.1 - Inteligencia Artificial](docs/2026-1-ia.md)
+- [2026.1 - Congressos e Eventos](docs/2026-1-congressos-eventos.md)
 
 ## Como usar
 
@@ -22,6 +23,7 @@ Use uma tabela com estas colunas:
 ## Regras
 
 - Cada linha representa uma apresentacao.
+- Em trilhas de oportunidades, cada linha pode representar um evento-alvo.
 - Cada apresentacao deve ter um unico conceito central.
 - A leitura pode ser maior do que a apresentacao, mas o encontro deve aprofundar apenas um foco.
 - `Pratica ou apoio` pode registrar exemplo, exercicio guiado, contraste entre modelos ou material complementar.
