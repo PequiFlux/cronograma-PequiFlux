@@ -15,16 +15,6 @@ Plano de estudo em 16 semanas com apresentacoes curtas, exploratorias e conceitu
 - Regra pedagogica: a leitura pode ser mais ampla do que a apresentacao; o encontro serve para ganhar intuicao, vocabulario tecnico e criterio de uso
 - Observacao: este cronograma cobre apenas Pesquisa Operacional; a trilha de Inteligencia Artificial sera estudada em paralelo em arquivo separado
 
-## Rotina semanal
-
-1. Antes da apresentacao: fazer a leitura indicada e marcar uma duvida central.
-2. Durante a apresentacao: explorar um conceito principal, com intuicao, exemplos, contraexemplos e linguagem precisa.
-3. Depois da apresentacao: resolver exercicios e escrever uma sintese de uma pagina com quatro itens:
-   - qual e o conceito central
-   - em que tipo de problema ele aparece
-   - como reconhecer quando ele e util
-   - quais sao seus limites ou confusoes comuns
-
 ## Cronograma
 
 | Apresentacao | Data | Conceito central | Leitura base | Pratica ou apoio | Status | Observacoes |
