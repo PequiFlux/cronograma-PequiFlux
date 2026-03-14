@@ -4,22 +4,25 @@ Repositorio simples para consulta dos cronogramas de estudo da organizacao Pequi
 
 ## Trilhas ativas
 
-- [2026.1 - Pesquisa Operacional - Livro Base em 16 Semanas](docs/2026-1-pesquisa-operacional.md)
+- [2026.1 - Pesquisa Operacional - Trilha Conceitual em 16 Semanas](docs/2026-1-pesquisa-operacional.md)
 - [2026.1 - Inteligencia Artificial](docs/2026-1-ia.md)
 
 ## Como usar
 
-Cada trilha deve ter seu proprio arquivo. Atualize o arquivo correspondente com:
+Cada trilha deve ter seu proprio arquivo e seguir um formato base comum.
 
-- data da aula
-- tema
-- material de apoio
-- status
+## Formato base
 
-## Estrutura sugerida
+Use uma tabela com estas colunas:
 
-Cada linha representa uma aula. Exemplo de colunas:
+| Apresentacao | Data | Conceito central | Leitura base | Pratica ou apoio | Status | Observacoes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 01 | 20/03/2026 | Introducao | Capitulo 1 | Exemplo curto ou exercicio guiado | Planejada | Um conceito central por encontro |
 
-| Aula | Data | Tema | Material | Status | Observacoes |
-| --- | --- | --- | --- | --- | --- |
-| 01 | 20/03/2026 | Introducao | Link ou arquivo | Planejada | - |
+## Regras
+
+- Cada linha representa uma apresentacao.
+- Cada apresentacao deve ter um unico conceito central.
+- A leitura pode ser maior do que a apresentacao, mas o encontro deve aprofundar apenas um foco.
+- `Pratica ou apoio` pode registrar exemplo, exercicio guiado, contraste entre modelos ou material complementar.
+- `Observacoes` deve guardar notas breves de contexto, dependencias ou ajustes.
