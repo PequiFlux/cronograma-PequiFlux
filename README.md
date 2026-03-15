@@ -2,10 +2,6 @@
 
 Repositorio simples para consulta dos cronogramas de estudo da organizacao PequiFlux.
 
-## Documentos institucionais
-
-- [PequiFlux - Documento Mestre do Projeto](docs/pequi_flux_documento_mestre_do_projeto.md)
-
 ## Trilhas ativas
 
 - [2026.1 - Pesquisa Operacional - Trilha Conceitual em 16 Semanas](docs/2026-1-pesquisa-operacional.md)
