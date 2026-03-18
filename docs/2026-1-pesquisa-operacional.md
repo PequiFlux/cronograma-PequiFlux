@@ -4,7 +4,7 @@ Plano de estudo em 16 semanas com apresentacoes curtas, exploratorias e conceitu
 
 ## Visao geral
 
-- (NotebookLM)[https://notebooklm.google.com/notebook/731c7f62-8f4f-4409-a045-33f58b93ee7f]
+- [NotebookLM](https://notebooklm.google.com/notebook/731c7f62-8f4f-4409-a045-33f58b93ee7f)
 
 - Trilha: Pesquisa Operacional
 - Inicio: 18/03/2026
